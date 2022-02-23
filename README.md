@@ -14,3 +14,11 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 * [From VSCode to Panic Nova](https://daryn.codes/journal/from-vscode-to-nova/)
 * [SalesForce Pardot Form Handling With Vue.js](https://daryn.codes/journal/salesforce-pardot-form-handling-vuejs/)
 * [Rapid Prototyping With Vue CLI 3](https://daryn.codes/journal/rapid-prototyping-vue-cli-3/)
+
+---
+
+### Why is your account so inactive lately?
+
+I'm on a work GitHub account now that gets the majority of my attention. In an effort to avoid burnout and preserve my mental health, I've reserved coding to work hours and projects only, and have ditched all social media. If you would like to keep in contact, you can reach me on [Discord](https://discordapp.com/users/866917520627859457).
+
+✌🏻
