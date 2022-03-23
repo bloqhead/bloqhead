@@ -8,6 +8,10 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 [Uses](https://daryn.codes/uses/) | [Journal](https://daryn.codes/journal/) | [Work](https://daryn.codes/work/)
 
+### My Latest Project
+
+* [DEMIGODS](https://github.com/bloqhead/demigods) — An Elden Ring weapons data API
+
 ### Latest Journal Entries
 
 * [content-visibility Overflow Bug](https://daryn.codes/journal/content-visibility-overflow-bug/)
