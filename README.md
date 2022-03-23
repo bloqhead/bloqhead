@@ -11,6 +11,7 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 ### My Latest Project
 
 * [DEMIGODS](https://github.com/bloqhead/demigods) — An Elden Ring weapons data API
+* [DEMIGODS | An Elden Ring API](https://ko-fi.com/Post/DEMIGODS--An-Elden-Ring-API-T6T4BRGW2) _(Ko-fi post)_
 
 ### Latest Journal Entries
 
