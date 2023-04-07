@@ -10,9 +10,9 @@ I'm currently looking for my next adventure! If you're looking for a seasoned Fr
 I make stuff mostly in Vue.js and love writing fancy CSS. I also enjoy making things in tools like [GreenSock](https://greensock.com/) and [anime.js](https://animejs.com/).
 
 You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
----
+
 [Uses](https://daryn.codes/uses/) | [Journal](https://daryn.codes/journal/) | [Work](https://daryn.codes/work/) | [Resume](https://resume.daryn.codes/)
----
+
 
 ### My Latest Projects
 
