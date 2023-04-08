@@ -13,6 +13,10 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 [Uses](https://daryn.codes/uses/) | [Journal](https://daryn.codes/journal/) | [Work](https://daryn.codes/work/) | [Resume](https://resume.daryn.codes/)
 
+### What I'm up to
+
+* Experimenting with Golang
+* Writing more Python
 
 ### My Latest Projects
 
