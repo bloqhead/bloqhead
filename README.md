@@ -7,7 +7,7 @@ I'm currently looking for my next adventure! If you're looking for a seasoned Fr
 
 ## Hello there 👋
 
-I make stuff mostly in Vue.js and love writing fancy CSS. I also enjoy making things in tools like [GreenSock](https://greensock.com/) and [anime.js](https://animejs.com/).
+I make stuff in Vue, JS, Node, and more recently, Golang. I love writing fancy CSS and crafting UX that strikes a balance between utility and fun. I'm also a big fan of [GreenSock](https://greensock.com/) and [anime.js](https://animejs.com/).
 
 You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
@@ -15,6 +15,7 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 ### What I'm up to
 
+* Strengthening my React chops
 * Experimenting with Golang
 * Writing more Python
 
