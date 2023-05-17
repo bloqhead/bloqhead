@@ -15,6 +15,7 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 ### What I'm up to
 
+* Testing new [Vue 3.3](https://blog.vuejs.org/posts/vue-3-3) features and changes
 * Strengthening my React chops
 * Experimenting with Golang
 * Writing more Python
