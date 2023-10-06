@@ -1,10 +1,5 @@
 ![Cool hand-drawn 80s-style banner image with lightning bolts, confetti, and other shapes](https://raw.githubusercontent.com/bloqhead/bloqhead/master/banner-sml.jpg)
 
-# Hire me!
-I'm currently looking for my next adventure! If you're looking for a seasoned Frontend Engineer with experience in Vue, various other JS frameworks, WordPress, or Craft CMS, I might be a fit. Let's work together!
-
----
-
 ## Hello there 👋
 
 I make stuff in Vue, JS, Node, and more recently, Golang. I love writing fancy CSS and crafting UX that strikes a balance between utility and fun. I'm also a big fan of [GreenSock](https://greensock.com/) and [anime.js](https://animejs.com/).
