@@ -8,16 +8,9 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 [Uses](https://daryn.codes/uses/) | [Journal](https://daryn.codes/journal/) | [Work](https://daryn.codes/work/) | [Resume](https://resume.daryn.codes/)
 
-### What I'm up to
-
-* Testing new [Vue 3.3](https://blog.vuejs.org/posts/vue-3-3) features and changes
-* Strengthening my React chops
-* Experimenting with Golang
-* Writing more Python
-
 ### My Latest Projects
 
-* [DEMIGODS (in Golang!)](https://github.com/bloqhead/demigods.go) **NEW** — A fun experiment and my first foray into [Go](https://go.dev/). Hosted as a Vercel Edge Function
+* [DEMIGODS (in Golang!)](https://github.com/bloqhead/demigods.go) — A fun experiment and my first foray into [Go](https://go.dev/). Hosted as a Vercel Edge Function
 * [DEMIGODS](https://github.com/bloqhead/demigods) — An Elden Ring weapons data API. Built in Node and Express and hosted as a Vercel Edge Function
 * [DEMIGODS | An Elden Ring API](https://ko-fi.com/Post/DEMIGODS--An-Elden-Ring-API-T6T4BRGW2) _(Ko-fi post)_
 * [Eldensearch](https://eldensearch.vercel.app/) - A search tool built with Vue and Vite that leverages the DEMIGODS API
