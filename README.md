@@ -10,6 +10,7 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 ### My Latest Projects
 
+* [Go-Lava](https://github.com/bloqhead/go-lava) - Learning experiment inspired by LavaRand
 * [DEMIGODS (in Golang!)](https://github.com/bloqhead/demigods.go) — A fun experiment and my first foray into [Go](https://go.dev/). Hosted as a Vercel Edge Function
 * [DEMIGODS](https://github.com/bloqhead/demigods) — An Elden Ring weapons data API. Built in Node and Express and hosted as a Vercel Edge Function
 * [DEMIGODS | An Elden Ring API](https://ko-fi.com/Post/DEMIGODS--An-Elden-Ring-API-T6T4BRGW2) _(Ko-fi post)_
