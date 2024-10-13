@@ -8,6 +8,8 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 [Uses](https://daryn.codes/uses/) | [Journal](https://daryn.codes/journal/) | [Work](https://daryn.codes/work/) | [Resume](https://resume.daryn.codes/)
 
+[![Bloqhead's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloqhead)](https://github.com/anuraghazra/github-readme-stats)
+
 ### My Latest Projects
 
 * [Go Lava](https://github.com/bloqhead/go-lava) - Learning experiment inspired by LavaRand
