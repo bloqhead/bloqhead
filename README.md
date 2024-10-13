@@ -8,7 +8,7 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 
 [Uses](https://daryn.codes/uses/) | [Journal](https://daryn.codes/journal/) | [Work](https://daryn.codes/work/) | [Resume](https://resume.daryn.codes/)
 
-[![Bloqhead's GitHub stats](https://github-readme-stats.vercel.app/api?username=bloqhead)](https://github.com/anuraghazra/github-readme-stats)
+[![Bloqhead's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bloqhead&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Latest Projects
 
