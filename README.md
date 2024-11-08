@@ -16,7 +16,7 @@ You can see some of my work over at [CodePen](https://codepen.io/bloqhead).
 * [DEMIGODS (in Golang!)](https://github.com/bloqhead/demigods.go) — A fun experiment and my first foray into [Go](https://go.dev/). Hosted as a Vercel Edge Function
 * [DEMIGODS](https://github.com/bloqhead/demigods) — An Elden Ring weapons data API. Built in Node and Express and hosted as a Vercel Edge Function
 * [DEMIGODS | An Elden Ring API](https://ko-fi.com/Post/DEMIGODS--An-Elden-Ring-API-T6T4BRGW2) _(Ko-fi post)_
-* [Eldensearch](https://eldensearch.vercel.app/) - A search tool built with Vue and Vite that leverages the DEMIGODS API
+* [Eldensearch](https://eldensearch.onrender.com/) - A search tool built with Vue and Vite that leverages the DEMIGODS API
 * [InsightBot](https://github.com/bloqhead/insightbot) - A chat bot that replies to reddit comments and posts using OpenAI, Python, and PRAW
 
 ### Latest Journal Entries
